@@ -70,23 +70,3 @@ h1, h2, h3, h4, h5, h6 {
   .footer-nav-widgets-wrapper, #site-footer {
       background-color: #000;
   }
-
-/* Reduce white space around stuff */
-@media (min-width: 700px) {
-  .widget .widget-title { margin-bottom: 2rem; }
-  .post-inner { padding-top: 3rem; }
-  .footer-widgets-outer-wrapper { padding: 3rem 0; }
-  #site-footer { padding: 3rem 0; }
-}
-.singular .entry-header {
-  padding: 2rem 0;
-}
-body:not(.singular) main > article:first-of-type {
-  padding: 2rem 0 0;
-}
-.archive-header {
-  padding: 2rem 0;
-}
-.error404 #site-content {
-  padding-top: 2rem;
-}
