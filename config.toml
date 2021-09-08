@@ -6,7 +6,7 @@ languageCode = "en-us"
 # post pagination
 paginate = "6"
 # post excerpt
-summaryLength = "10"
+summaryLength = "22"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
