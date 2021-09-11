@@ -77,7 +77,7 @@ expire_days = 2
 # banner
 [params.banner]
 heading = ""
-image = "images/rsz_1thenoesiscover1.png"
+image = "images/rsz_thenoesiscover3.png"
 
 # blog
 [params.blog]
