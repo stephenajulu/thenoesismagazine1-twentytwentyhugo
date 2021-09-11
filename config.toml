@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://thenoesismagazine.netlify.app"
-title = "The Noesis Magazine"
+title = "The Noesis"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
@@ -52,11 +52,6 @@ name = "Contact"
 URL = "contact"
 weight = 4
 
-[[menu.main]]
-name = "Sample Page"
-URL = "sample-page"
-weight = 5
-
 # only desktop menu
 [[menu.desktop]]
 name = "Contact"
@@ -81,12 +76,12 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
+heading = ""
+image = "images/rsz_1thenoesiscover1.png"
 
 # blog
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = ""
 
 # call to action
 [params.call_to_action]
