@@ -58,13 +58,13 @@ body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .pri
   /* default color #cd2653; 
    * if you are using a custom color, update this to reflect your color scheme and appropriate contract for darkened theme.
    * */
-  color: linear-gradient(#0F6C99, #9b1da2);
+  color: #cd2653;
 }
 button, .button, .faux-button, .wp-block-button__link, .wp-block-file .wp-block-file__button, input[type="button"], input[type="reset"], input[type="submit"] {
   /* default color #cd2653; 
    * if you are using a custom color, update this to reflect your color scheme and appropriate contract for darkened theme.
    * */
-  background: linear-gradient(#0F6C99, #9b1da2);
+  background: #cd2653;
 }
 .site-description, body:not(.overlay-header) .toggle-inner .toggle-text, .widget .post-date, .widget .rss-date, .widget_archive li, .widget_categories li, .widget cite, .widget_pages li, .widget_meta li, .widget_nav_menu li, .powered-by-wordpress, .to-the-top, .singular .entry-header .post-meta, .singular:not(.overlay-header) .entry-header .post-meta a {
   color: #9a9a9a;
